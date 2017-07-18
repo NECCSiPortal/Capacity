@@ -1,0 +1,37 @@
+*.pyc
+*.log
+.venv
+.testrepository/
+.tox
+.coverage
+cover/*
+nosetests.xml
+coverage.xml
+AUTHORS
+ChangeLog
+build
+dist
+*.egg
+capacity.egg-info
+tests.sqlite
+capacity/versioninfo
+python_capacityclient.egg-info
+
+# Swap files range from .saa to .swp
+*.s[a-w][a-p]
+
+# IDE files
+.project
+.pydevproject
+.settings/
+.idea
+.e4p
+.eric5project/
+.issues/
+.ropeproject
+cover/
+covhtml/
+
+*.egg
+.project
+.pydevproject
